@@ -41,5 +41,3 @@ def reconstruct_trip(tickets, length):
     ticks_arr.append("NONE")
     return ticks_arr
     
-
-    return route
