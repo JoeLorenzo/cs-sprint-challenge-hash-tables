@@ -41,3 +41,5 @@ def reconstruct_trip(tickets, length):
     ticks_arr.append("NONE")
     return ticks_arr
     
+    # O(n) time complexity 
+    # O(n) space complexity
